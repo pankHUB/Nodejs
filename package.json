@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "nodeJs refresher",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankHUB/Nodejs.git"
+  },
+  "author": "pankul rathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankHUB/Nodejs/issues"
+  },
+  "homepage": "https://github.com/pankHUB/Nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
